@@ -1,0 +1,3 @@
+# svelte-template
+
+license OK.
